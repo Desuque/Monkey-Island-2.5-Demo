@@ -1,0 +1,370 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Sorry, not now.
+Spiacente, non adesso.
+Restore
+Ripristina
+Cancel
+Cancella
+Select a game to restore:
+Selezione un gioco da ripristinare:
+Save
+Salva
+Type a name to save as:
+Scrivi un nome per la partita da salvare:
+Replace
+Sostituisci
+The save directory is full. You must replace an existing game:
+La cartella di salvataggio è piena, devi sostituire un gioco esistente:
+Replace:
+Sostituisci:
+With:
+Con:
+Quit
+Esci
+Play
+Gioca
+Are you sure you want to quit?
+Vuoi davvero uscire?
+You are carrying nothing.
+Al momento non possiedi nulla.
+Test1
+Test1
+Test2
+Test2
+Iniciar
+Iniziare
+Cargar
+Carica
+Salir
+Esci
+Hola cabeza de ramas. Como estas?
+Ciao, testa rasta! Come stai? 
+Hasta ahora iba bien.
+Finora tutto bene.
+Por que te detuviste?
+Perché ti sei fermato?
+Se me rompio la vela del barco.
+Si è bloccata la mia barca a vela.
+No diablos!!!
+Diavolo, no!!!
+Pero...
+Comunque...
+Tenemos que llegar, he oido que en Golden Studios estan contratando personajes de Aventuras Graficas para realizar un Fan-Game de Monkey Island...
+Ho sentito dire che alla Golden Studios stanno cercando personaggi delle Avventure Grafiche per realizzare un fangame su Monkey Island...
+...y tambien necesito el empleo.
+... e quindi ho bisogno di un impiego.
+Mi ultimo trabajo fue en 1991. Ademas Elaine ya ni me quiere ver...
+Il mio ultimo lavoro è stato nel 1991. Inoltre Elaine non mi vuol più vedere...
+...necesito una nueva aventura para conquistarla.
+... ho bisogno di una nuova avventura per riconquistarla.
+Pero tengo un secreto que contarte.
+Allora ho un segreto da svelarti.
+Secreto?... Sabes cuando sale Monkey Island 5?
+Segreto? Sai quando uscirà Monkey Island 5?
+El que?. No, no. Un motor para mover mi barco. Pero necesita energia para impulsarse, aqui tienes una lista, fijate si puedes conseguirlo.
+Di quello? No, no. Di un motore per far muovere la mia nave. Serve però dell'energia per farlo partire; ecco una lista, vedi di trovare l'occorrente.
+Esta bien, yo intentare conseguir lo que necesitas para el barco con la condicion que despues me lleves lo mas rapido posible a Golden Studios.
+Ok, cercherò di trovare tutto ciò che serve per la nave a condizione che poi tu mi conduca il più velocemente possibile alla Golden Studios.
+Vale, vale, no llores mas. Toma esto, te ayudara con lo que necesito.
+Va bene, va bene, smettila di lagnarti. Prendi questo, ti tornerà utile.
+No puedo cargar con el Banco! Es muy grande!
+Non posso raccogliere lo sgabello! È troppo grande!
+Que linda utilidad de pesca! Quizas me sirva para algo en esta aventura!
+Che bel set per la pesca! Chissà? Forse mi servirà in questa avventura!
+No logro alcanzarla desde aqui!
+Non posso raggiungerla da qui!
+Por alguna ley fisica, la botella no se va con la corriente...
+Per una strana legge della fisica, la bottiglia non segue la corrente...
+O quizas sea porque es un videojuego... Aun no lo se.
+O forse perché questo è un videogioco... Chissà?!
+Es solo una lata de cera...
+È solo un barattolo di cera...
+No la alcanzo... Esa lata esta demasiado alta!
+Non ci arrivo... Quel barattolo è troppo in alto!
+Es un cajon lleno de Cerveza de Raiz!
+È una confezione di Birra di Radice!
+Esta atorada! No creo que se suelte...
+È incastrata! Non so come staccarla...
+Se ve peligroso! Tan solo tiene tres patas!
+Sembra pericoloso! Ha solo tre gambe!
+Creo que he logrado arreglar el banco!
+Penso di essere riuscito a sistemare lo sgabello!
+Mmmmm... No se ve muy seguro, me caeria si subiera encima!
+Hmmm... Non sembra molto sicuro. Cadrò se ci salgo sopra!
+He logrado despegar una botella! Creo que sera suficiente.
+Sono riuscito a prendere una bottiglia! Penso che sarà sufficiente.
+Ya no esta lleno! He quitado una botella.
+Non è più piena! Ho raccolto una bottiglia.
+No creo que alguien lo note... O si?
+Non penso che qualcuno se ne accorgerà... o forse sì?
+Debo dejar algo para los demas aventureros!
+Devo lasciarne qualcuna per altri avventurieri!
+Es la puerta del barco de Dread!
+È la porta della nave di Dread!
+Aun no tengo todos los ingredientes!
+Non ho ancora tutti gli elementi!
+Podre ingresar al tenerlos todos.
+Potrò rientrare quando li avrò trovati tutti.
+No subire, la madera esta muy fragil!
+Non subito: il legno è molto fragile!
+Puerta
+porta
+Botella de Grog
+bottiglia di Grog
+Banco Tres Patas
+sgabello a tre gambe
+Utilidad de Pesca
+set da pesca
+Lata de Cera
+barattolo di cera
+Cajon de Cerveza de Raiz
+confezione di Birra di Radice
+Banco Cuatro Patas
+sgabello a quattro gambe
+Has logrado conseguir los materiales?
+Hai trovato tutto il materiale?
+Si los tienes no dudes en entregarmelos!
+Se ce l'hai non esitare a consegnarmelo!
+Aqui los tengo!
+Ce l'ho qui!
+Toma la Lata de Cera...
+Ecco il barattolo di cera...
+Ah bien, este es uno.
+Ah bene, questo è uno.
+Toma la Botella de Grog...
+Ecco la bottiglia di Grog...
+Esto servira.
+Servirà sicuramente.
+Toma la Cerveza de Raiz!
+Ecco la Birra di Radice!
+Excelente ya con esto puedo fabricar mi combustible secreto unico en todo el Caribe.
+Eccellente! Così posso produrre il mio combustile segreto, unico in tutti i Caraibi.
+Bien, ahora llevame a Golden Studios...
+Bene, adesso portami alla Golden Studios...
+He oido que aun tienen el Staff abierto.
+Ho saputo che ci sono posizioni aperte per il personale.
+Estan buscando excelentes Musicos y Sonidistas, que compongan en formato MIDI y que logren el estilo Calypso Reagge del Monkey Island.
+Stanno cercando eccellenti musicisti e tecnici del suono che siano capaci di comporre in formato MIDI per ricreare lo stile Reggae Calypso di Monkey Island.
+Tambien estan buscando Grafistas, maestros de los pixeles, que puedan dibujar Sprites. Es decir cualquiera que pueda dibujar a los personajes con todas sus animaciones y los objetos del juego.
+Sono anche alla ricerca di progettisti grafici, maestri di pixel-art, che possano creare sprites. Cioè quelli che sanno disegnare personaggi con tutte le animazioni e gli oggetti del gioco.
+Y por ultimo estan buscando buenos fondistas. Que sepan dibujar a mano y les den retoques y efectos en la computadora con programas de Edicion de Imagenes consiguiendo fondos estilo Monkey Island 2.
+E infine stanno cercando bravi disegnatori di fondali. Coloro che sappiano disegnare a mano per poi ritoccare e creare effetti con il PC usando programmi di editing per immagini per poter realizzare fondali nello stile di Monkey Island 2.
+Terminaste?
+Hai terminato?
+Si. Querias decir algo?
+Sì, volevi dirmi qualcosa?
+Me olvide de decirte que no tenemos motor...
+Ho dimenticato di dirti che non abbiamo il motore...
+Que? Queeeeeeeeeee?
+Cosa? COSAAAAAAAAAAA?
+El capitan Dread ya sabia crear combustibles fosiles y gasolinas con su formula secreta...
+Il Capitano Dread sapeva come creare dai combustibili fossili la benzina con la sua formula segreta...
+...El unico problema es que aun no se habia inventado el motor.
+... l'unico problema è che non hanno ancora inventato il motore!
+Y a Guybrush no le quedo otra que viajar a Golden Studios...
+E a Guybrush non rimane altro da fare per andare alla Golden Studios...
+Por medio de...
+... che usare...
+Digamos... 
+... diciamo...
+Su propia fuerza de voluntad!!!
+... la sua sola forza di volontà!!!
+Director de Arte y Graficos:
+Direttore artistico e grafico:
+Parka
+Parka
+Colaboradores de Arte:
+Collaboratori artistici:
+Ramses Tuzzio
+Ramses Tuzzio
+William
+William
+Leandro Desuque
+Leandro Desuque
+Directores de Sonido:
+Tecnico del suono:
+Esteban
+Esteban
+Director de Programacion:
+Responsabile di Programmazione:
+Programacion General:
+Programmazione:
+Dezukez
+Dezukez
+Directores de Historia y Trama:
+Trama e sceneggiatura:
+Pepetwingo
+Pepetwingo
+Colaboracion en Historia y Trama:
+Collaborazione nella trama e nella sceneggiatura:
+Rajamos a Dread de esta pantalla gracias a la paliza que le dio Ramonkey!
+Dread non compare tra queste videate in seguito alla 'lezione' che ha dato a RaMonkey!
+Agradecemos especialmente a William nuestro Webmaster...
+Un ringraziamento speciale al nostro webmaster William...
+Esperamos que les halla gustado ver a Guybrush remar...
+Speriamo che vi sia piaciuto vedere Guybrush remare...
+Digo... Jugar el Demo de Golden Studios!
+Volevo dire... a giocare alla demo della Golden Studios!
+No se olviden de comentar en nuestro foro!!!
+Non dimenticate di commentare sul nostro forum!!!
+Ni de apagar el ordenador pasada la hora de la cena!!!
+Né di spegnere il computer dopo l'ora di cena!!!
+Choose a name for the game you want to SAVE
+Scegli un nome per la partida da SALVARE:
+Walk to 
+Vai verso 
+Are you sure you want to exit? (Y/N)
+Vuoi davvero uscire? (S/N)
+@GAMENAME@
+@GAMENAME@
+Do you want to restart the game? (Y/N)
+Vuoi ricominciare da capo? (S/N)
+@OVERHOTSPOT@
+@OVERHOTSPOT@
+Game paused. Press SPACE to continue.
+Pausa. Premere SPAZIO per continuare.
+Choose a game to LOAD
+Scegli una partita da CARICARE:
+99.
+99.
+Ir a
+Vai verso 
+Juego pausado. Presione ESPACIO para seguir.
+Pausa. Premere SPAZIO per continuare.
+Selecciona la partida a Cargar!
+Scegli una partita da CARICARE:
+Elije un nombre y guarda la partida!
+Scegli un nome per la partita da SALVARE:
+Estas apurado? Vas a alguna parte? (S/N)
+Hai fretta? Vai da qualche parte? (S/N)
+Se recomenzara el juego! (S/N)
+Ricomincia il gioco. (S/N)
+http://www.goldenstudios.webcindario.com
+http://www.goldenstudios.webcindario.com
+Load
+Carica
+New Button
+Nuovo pulsante
+Guardar
+Salva
+Jugar
+Gioca
+Cancelar
+Elimina
+GuyBrush
+GuyBrush
+Rasta
+Rasta
+Fin
+Fin
+Staff
+Staff
+GuyBarco
+Barca di Guybrush
+Ramita
+rametto
+Lista
+lista
+Cerveza de Raiz
+Birra di Radice
+Monkey Island 2.5 El Parque de las Pesadillas
+Monkey Island 2.5 Il parco degli Incubi
+Ir a 
+Vai verso 
+Mirar 
+Esamina 
+Usar 
+Usa 
+Dar 
+Dai 
+Hablar con 
+Parla con 
+Coger 
+Raccogli 
+ con 
+ con 
+ a 
+ a 
+Cerrar 
+Chiudi 
+Abrir 
+Apri 
+Empujar 
+Premi 
+Tirar 
+Tira 
+Que intentas lograr con eso???
+Per farci cosa???
+No se cierra!
+Non si può chiudere!
+No se abre!
+Non si può aprire!
+No puedo empujarlo!
+Non si può premere!
+No puedo tirarlo!
+Non si può tirare!
+Eso no se puede usar!
+Non si può usare!
+Es la ramita que me dio Dread!
+È il rametto che mi ha dato Dread!
+A ver...
+Vediamo...
+Botella de Grog... Vale! Lo tengo!
+Una bottiglia di Grog... Bene! Ce l'ho!
+Botella de Grog...
+Una bottiglia di Grog...
+Cera... Vale! Lo tengo!
+Cera... Bene! Ce l'ho!
+Cera...
+Cera...
+Cerveza de Raiz... Vale! Lo tengo!
+Birra di Radice... Bene! Ce l'ho!
+Cerveza de Raiz...
+Birra di Radice...
+Cuanta cuerda... Con ella vere si puedo pescar algo!
+Quanto filo... Vediamo se riesco a pescare qualcosa!
+Es tan solo Cera! No se para que la querra Dread!
+È solamente cera! Non so perché la voglia Dread!
+Sera de calidad? Tendre que preguntarle a la hechicera!
+Sarà di qualità? Dovrò chiedere alla maga!
+Reiniciar
+Riavvia
+Estas apurado? Vas a alguna parte?
+Hai fretta? Vai da qualche parte?
+SI
+SÌ
+Se recomenzara el juego?
+Vuoi riavviare il gioco?
+Eso no se puede usar en este Demo!
+Non si può fare in questa Demo!
+Que objeto raro!
+Che oggetto strano!
+No quiero coger eso.
+Non si può raccogliere.
+Y finalmente GRACIAS por las mejoras para la Versión 0.2:
+Ed infine i RINGRAZIAMENTI per le migliorie della versione 0.2:
+Gracias a Monkey Island World (miworld.eu)
+Grazie al Monkey Island World (miworld.eu)
+Programación AGS adicionale y BetaTesting (miworld.eu):
+Per la programmazione AGS addizionale ed il BetaTesting (miworld.eu):
+Para la traducción gracias a:
+Traduzione italiana a cura del Monkey Island World (miworld.eu):
+Nombres de traductores.
+Dialoghi: Giocherellone, utdefault[[BetaTest traduzione: utdefault[[Suggerimenti traduzione: Blackmonkey[[Grafica addizionale: utdefault[[Programmazione AGS aggiuntiva: utdefault
